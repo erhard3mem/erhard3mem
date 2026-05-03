@@ -8,7 +8,7 @@ Here you can find mainly JavaScript and Python projects, but also some Java/Andr
 
 ##
 - 💬 Ask me about JavaScript or Python stuff.
-- 📫 How to reach me: ee.online@mailbox.org or [Instagram](https://www.instagram.com/bicyclesteron/)
+- 📫 How to reach me: ee.online@mailbox.org
 
 
 <!--
