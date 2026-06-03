@@ -4,7 +4,7 @@ I'm a technical consultant at [Up to date](http://www.uptodate.at) in Schwanenst
 
 ## Code
 
-Here you can find mainly JavaScript and Python projects, but also some Java/Android-related projects and n8n-based applications. In 2024 I participated at the [Progressive Democracy Lab](https://www.fes.de/en/shaping-the-future) from the Friedrich Ebert Stiftung in Germany with my project about a [blockchain based voting system](https://github.com/erhard3mem/blockchainvote2). One of my prior work was the digitalization of the Biblioteca Alemana Nicaragüense by using KOHA. A long time ago, during school time, I was working on some Database-schema-synchronization tool.
+Here you can find mainly JavaScript and Python projects, but also some Java/Android-related projects and n8n-based applications. Today I am working on the intersections of AI and ERP systems. I'm trying to build a DSL in JavaScript for programming ERPs with simple interfaces to AI, REST, SQL and FS. In 2024 I participated at the [Progressive Democracy Lab](https://www.fes.de/en/shaping-the-future) from the Friedrich Ebert Stiftung in Germany with my project about a [blockchain based voting system](https://github.com/erhard3mem/blockchainvote2). One of my prior work was the digitalization of the Biblioteca Alemana Nicaragüense by using KOHA. A long time ago, during school time, I was working on some Database-schema-synchronization tool.
 
 ##
 - 💬 Ask me about JavaScript or Python stuff.
