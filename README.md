@@ -1,6 +1,6 @@
-# Hello, I'm Erhard. 👋
+<img width="916" height="332" alt="grafik" src="https://github.com/user-attachments/assets/714f89c2-aded-4d51-823c-25a27d550491" />
 
-I'm a technical consultant at [Up to date](http://www.uptodate.at) in Schwanenstadt, Austria and I was working as a software engineer for [NTSwincash](http://www.ntsretail.com) and [Mindbreeze](http://www.mindbreeze.com) in the past.
+I'm working at [Up to date](http://www.uptodate.at) in Schwanenstadt, Austria and I was working as a software engineer for [NTSwincash](http://www.ntsretail.com) and [Mindbreeze](http://www.mindbreeze.com) in the past.
 
 ## Code
 
